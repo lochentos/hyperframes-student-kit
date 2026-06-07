@@ -32,3 +32,6 @@ raw-media/
 **/renders/frames/
 **/renders/frames-*/
 
+# Local test footage (large media files, not for git)
+Test_footage/
+
